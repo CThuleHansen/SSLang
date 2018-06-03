@@ -2,12 +2,12 @@
 I am going to create the Semantics Supported Language (SSLang), which cannot do anything, that current languages cannot. And more importantly, I am going to write about the challenges I encounter, and how I solve them.
 
 ## Table of Contents: 
-1. Why
-2. What
-3. HOw
-4. Collaboration 
-5. Grand Ideas
-6. ?
+Why
+What
+How
+Collaboration 
+Grand Ideas
+?
 
 ## Why
 I come from a background in software engineering, where I have learned how to develop software (duh). However, I have not learned about the semantics underlining the languages that I use on a daily basis. This was left to the computer science students. Additionally, I only had a brief encounter with formal proofs, which is another area I would like to learn more about.
@@ -19,7 +19,7 @@ As mentioned in the very top, I am going to create the Semantics Supported Langa
 So how will I do this? See the next section!
 
 ## How
-This section describes the first steps, that I believe to make up the first milestone. Once I have implemented these I will decide what to do next.
+This section describes the first steps, that I believe to make up the first milestone (These items are also listed under issues as label enhancement). Once I have implemented these I will decide what to do next.
 * Define the type Integer
 * Define the type Boolean, which can be True or False
 * Define arithmetic operators: +, -, *, and /.
