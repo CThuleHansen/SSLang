@@ -19,15 +19,17 @@ As mentioned in the very top, I am going to create the Semantics Supported Langa
 So how will I do this? See the next section!
 
 ## How
-This section describes the first steps, that I believe to make up the first milestone (These items are also listed under issues as label enhancement). Once I have implemented these I will decide what to do next.
-* Define the type Integer
-* Define the type Boolean, which can be True or False
-* Define arithmetic operators: +, -, *, and /.
-* Define if/else
-* Define variables
-* Define state
-* Write a simple program
-* (Theorem) Prove someting about the program
+This section describes the first steps, that I believe to make up the first two milestones (MSs). These items are also listed under issues as label enhancement. Once I have implemented these I will decide what to do next.
+* Define the type Integer (MS 1)
+* Define the type Boolean, which can be True or False (MS 2)
+* Define arithmetic operators: + (MS 1), - (MS 1), *, and /.
+* Define if/else (MS 2)
+* Define variables (MS 1)
+* Define state (MS 1)
+* Write a simple program (MS 1)
+* Define sequencing (MS 1)
+* Define recursion (MS 2)
+* (Theorem) Prove someting about the program (ALWAYS)
 
 So what are the semantics (i.e. the meaning) of define?
 Define in this case means to give the following semantics to the bulletins:
